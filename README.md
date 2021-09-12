@@ -1,1 +1,1 @@
-# Basic LInear Regression from Scratch
+# Basic Linear Regression from Scratch
